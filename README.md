@@ -17,10 +17,8 @@ Or you can do >>
 pip install -r requirements.txt
 
 
-ALSO Enter full File path 
+USAGE 
 
-if __name__ == "__main__":
-    # Set file path
-    excel_file = "Eneter_full_File_path"
+If it ask for the path enter full path or place the file in the same folder you run this script and just enter the file name 
     
     
