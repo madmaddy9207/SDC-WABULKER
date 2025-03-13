@@ -3,3 +3,4 @@ selenium
 webdriver-manager
 openpyxl
 urllib3
+tqdm
